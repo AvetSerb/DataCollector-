@@ -1,0 +1,1146 @@
+{
+"stations": [
+{
+"name": "Бульвар Рокоссовского",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Черкизовская",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Преображенская площадь",
+"hasConnection": "false"},
+{
+"name": "Сокольники",
+"hasConnection": "false"},
+{
+"name": "Красносельская",
+"hasConnection": "false"},
+{
+"name": "Комсомольская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Красные ворота",
+"hasConnection": "false"},
+{
+"name": "Чистые пруды",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Лубянка",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Охотный ряд",
+"line": "3",
+"hasConnection": "true"},
+{
+"name": "Библиотека имени Ленина",
+"line": "9",
+"hasConnection": "true"},
+{
+"name": "Кропоткинская",
+"hasConnection": "false"},
+{
+"name": "Парк Культуры",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Фрунзенская",
+"hasConnection": "false"},
+{
+"name": "Спортивная",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Воробьевы горы",
+"hasConnection": "false"},
+{
+"name": "Университет",
+"hasConnection": "false"},
+{
+"name": "Проспект Вернадского",
+"hasConnection": "false"},
+{
+"name": "Юго-Западная",
+"hasConnection": "false"},
+{
+"name": "Тропарёво",
+"hasConnection": "false"},
+{
+"name": "Румянцево",
+"hasConnection": "false"},
+{
+"name": "Саларьево",
+"hasConnection": "false"},
+{
+"name": "Филатов Луг",
+"hasConnection": "false"},
+{
+"name": "Прокшино",
+"hasConnection": "false"},
+{
+"name": "Ольховая",
+"hasConnection": "false"},
+{
+"name": "Коммунарка",
+"hasConnection": "false"},
+{
+"name": "Ховрино",
+"hasConnection": "false"},
+{
+"name": "Беломорская",
+"hasConnection": "false"},
+{
+"name": "Речной вокзал",
+"hasConnection": "false"},
+{
+"name": "Водный стадион",
+"hasConnection": "false"},
+{
+"name": "Войковская",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Сокол",
+"hasConnection": "false"},
+{
+"name": "Аэропорт",
+"hasConnection": "false"},
+{
+"name": "Динамо",
+"line": "11",
+"hasConnection": "false"},
+{
+"name": "Белорусская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Маяковская",
+"hasConnection": "false"},
+{
+"name": "Тверская",
+"line": "9",
+"hasConnection": "true"},
+{
+"name": "Театральная",
+"line": "3",
+"hasConnection": "true"},
+{
+"name": "Новокузнецкая",
+"line": "8",
+"hasConnection": "true"},
+{
+"name": "Павелецкая",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Автозаводская",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Технопарк",
+"hasConnection": "false"},
+{
+"name": "Коломенская",
+"hasConnection": "false"},
+{
+"name": "Каширская",
+"line": "11",
+"hasConnection": "false"},
+{
+"name": "Кантемировская",
+"hasConnection": "false"},
+{
+"name": "Царицыно",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Орехово",
+"hasConnection": "false"},
+{
+"name": "Домодедовская",
+"hasConnection": "false"},
+{
+"name": "Красногвардейская",
+"line": "10",
+"hasConnection": "false"},
+{
+"name": "Алма-Атинская",
+"hasConnection": "false"},
+{
+"name": "Пятницкое шоссе",
+"hasConnection": "false"},
+{
+"name": "Митино",
+"hasConnection": "false"},
+{
+"name": "Волоколамская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Мякинино",
+"hasConnection": "false"},
+{
+"name": "Строгино",
+"hasConnection": "false"},
+{
+"name": "Крылатское",
+"hasConnection": "false"},
+{
+"name": "Молодежная",
+"hasConnection": "false"},
+{
+"name": "Кунцевская",
+"line": "4",
+"hasConnection": "true"},
+{
+"name": "Славянский бульвар",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Парк Победы",
+"line": "8",
+"hasConnection": "false"},
+{
+"name": "Киевская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Смоленская",
+"hasConnection": "false"},
+{
+"name": "Арбатская",
+"line": "9",
+"hasConnection": "true"},
+{
+"name": "Площадь Революции",
+"line": "2",
+"hasConnection": "true"},
+{
+"name": "Курская",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Бауманская",
+"hasConnection": "false"},
+{
+"name": "Электрозаводская",
+"line": "15",
+"hasConnection": "false"},
+{
+"name": "Семеновская",
+"hasConnection": "false"},
+{
+"name": "Партизанская",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Измайловская",
+"hasConnection": "false"},
+{
+"name": "Первомайская",
+"hasConnection": "false"},
+{
+"name": "Щелковская",
+"hasConnection": "false"},
+{
+"name": "Александровский сад",
+"line": "9",
+"hasConnection": "true"},
+{
+"name": "Арбатская",
+"hasConnection": "false"},
+{
+"name": "Смоленская",
+"hasConnection": "false"},
+{
+"name": "Киевская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Студенческая",
+"hasConnection": "false"},
+{
+"name": "Кутузовская",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Фили",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Багратионовская",
+"hasConnection": "false"},
+{
+"name": "Филевский парк",
+"hasConnection": "false"},
+{
+"name": "Пионерская",
+"hasConnection": "false"},
+{
+"name": "Кунцевская",
+"line": "3",
+"hasConnection": "true"},
+{
+"name": "Выставочная",
+"line": "11",
+"hasConnection": "true"},
+{
+"name": "Международная",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Киевская",
+"line": "4",
+"hasConnection": "true"},
+{
+"name": "Парк Культуры",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Октябрьская",
+"line": "6",
+"hasConnection": "false"},
+{
+"name": "Добрынинская",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Павелецкая",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Таганская",
+"line": "8",
+"hasConnection": "true"},
+{
+"name": "Курская",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Комсомольская",
+"line": "1",
+"hasConnection": "true"},
+{
+"name": "Проспект Мира",
+"line": "6",
+"hasConnection": "false"},
+{
+"name": "Новослободская",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Белорусская",
+"line": "2",
+"hasConnection": "true"},
+{
+"name": "Краснопресненская",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Новоясеневская",
+"line": "12",
+"hasConnection": "false"},
+{
+"name": "Ясенево",
+"hasConnection": "false"},
+{
+"name": "Теплый стан",
+"hasConnection": "false"},
+{
+"name": "Коньково",
+"hasConnection": "false"},
+{
+"name": "Беляево",
+"hasConnection": "false"},
+{
+"name": "Калужская",
+"hasConnection": "false"},
+{
+"name": "Новые Черёмушки",
+"hasConnection": "false"},
+{
+"name": "Профсоюзная",
+"hasConnection": "false"},
+{
+"name": "Академическая",
+"hasConnection": "false"},
+{
+"name": "Ленинский проспект",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Шаболовская",
+"hasConnection": "false"},
+{
+"name": "Октябрьская",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Третьяковская",
+"line": "8",
+"hasConnection": "true"},
+{
+"name": "Китай-город",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Тургеневская",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Сухаревская",
+"hasConnection": "false"},
+{
+"name": "Проспект Мира",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Рижская",
+"hasConnection": "false"},
+{
+"name": "Алексеевская",
+"hasConnection": "false"},
+{
+"name": "ВДНХ",
+"hasConnection": "false"},
+{
+"name": "Ботанический сад",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Свиблово",
+"hasConnection": "false"},
+{
+"name": "Бабушкинская",
+"hasConnection": "false"},
+{
+"name": "Медведково",
+"hasConnection": "false"},
+{
+"name": "Котельники",
+"hasConnection": "false"},
+{
+"name": "Жулебино",
+"hasConnection": "false"},
+{
+"name": "Лермонтовский проспект",
+"line": "15",
+"hasConnection": "false"},
+{
+"name": "Выхино",
+"hasConnection": "false"},
+{
+"name": "Рязанский проспект",
+"hasConnection": "false"},
+{
+"name": "Кузьминки",
+"hasConnection": "false"},
+{
+"name": "Текстильщики",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Волгоградский проспект",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Пролетарская",
+"line": "10",
+"hasConnection": "false"},
+{
+"name": "Таганская",
+"line": "8",
+"hasConnection": "true"},
+{
+"name": "Китай-город",
+"line": "6",
+"hasConnection": "false"},
+{
+"name": "Кузнецкий мост",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Пушкинская",
+"line": "9",
+"hasConnection": "true"},
+{
+"name": "Баррикадная",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Улица 1905 года",
+"hasConnection": "false"},
+{
+"name": "Беговая",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Полежаевская",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Октябрьское Поле",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Щукинская",
+"hasConnection": "false"},
+{
+"name": "Спартак",
+"hasConnection": "false"},
+{
+"name": "Тушинская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Сходненская",
+"hasConnection": "false"},
+{
+"name": "Планерная",
+"hasConnection": "false"},
+{
+"name": "Новокосино",
+"hasConnection": "false"},
+{
+"name": "Новогиреево",
+"hasConnection": "false"},
+{
+"name": "Перово",
+"hasConnection": "false"},
+{
+"name": "Шоссе Энтузиастов",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Авиамоторная",
+"line": "15",
+"hasConnection": "false"},
+{
+"name": "Площадь Ильича",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Марксистская",
+"line": "7",
+"hasConnection": "true"},
+{
+"name": "Третьяковская",
+"line": "6",
+"hasConnection": "true"},
+{
+"name": "Деловой центр",
+"line": "11",
+"hasConnection": "true"},
+{
+"name": "Парк Победы",
+"line": "3",
+"hasConnection": "false"},
+{
+"name": "Минская",
+"hasConnection": "false"},
+{
+"name": "Ломоносовский проспект",
+"hasConnection": "false"},
+{
+"name": "Раменки",
+"hasConnection": "false"},
+{
+"name": "Мичуринский проспект",
+"hasConnection": "false"},
+{
+"name": "Озёрная",
+"hasConnection": "false"},
+{
+"name": "Говорово",
+"hasConnection": "false"},
+{
+"name": "Солнцево",
+"hasConnection": "false"},
+{
+"name": "Боровское шоссе",
+"hasConnection": "false"},
+{
+"name": "Новопеределкино",
+"hasConnection": "false"},
+{
+"name": "Рассказовка",
+"hasConnection": "false"},
+{
+"name": "Бульвар Дмитрия Донского",
+"line": "12",
+"hasConnection": "false"},
+{
+"name": "Аннино",
+"hasConnection": "false"},
+{
+"name": "Улица академика Янгеля",
+"hasConnection": "false"},
+{
+"name": "Пражская",
+"hasConnection": "false"},
+{
+"name": "Южная",
+"hasConnection": "false"},
+{
+"name": "Чертановская",
+"hasConnection": "false"},
+{
+"name": "Севастопольская",
+"hasConnection": "false"},
+{
+"name": "Нахимовский Проспект",
+"hasConnection": "false"},
+{
+"name": "Нагорная",
+"hasConnection": "false"},
+{
+"name": "Нагатинская",
+"hasConnection": "false"},
+{
+"name": "Тульская",
+"hasConnection": "false"},
+{
+"name": "Серпуховская",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Полянка",
+"hasConnection": "false"},
+{
+"name": "Боровицкая",
+"line": "4",
+"hasConnection": "true"},
+{
+"name": "Чеховская",
+"line": "7",
+"hasConnection": "true"},
+{
+"name": "Цветной бульвар",
+"line": "10",
+"hasConnection": "false"},
+{
+"name": "Менделеевская",
+"line": "5",
+"hasConnection": "false"},
+{
+"name": "Савеловская",
+"line": "11",
+"hasConnection": "true"},
+{
+"name": "Дмитровская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Тимирязевская",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Петровско-Разумовская",
+"line": "10",
+"hasConnection": "false"},
+{
+"name": "Владыкино",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Отрадное",
+"hasConnection": "false"},
+{
+"name": "Бибирево",
+"hasConnection": "false"},
+{
+"name": "Алтуфьево",
+"hasConnection": "false"},
+{
+"name": "Зябликово",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Шипиловская",
+"hasConnection": "false"},
+{
+"name": "Борисово",
+"hasConnection": "false"},
+{
+"name": "Марьино",
+"hasConnection": "false"},
+{
+"name": "Братиславская",
+"hasConnection": "false"},
+{
+"name": "Люблино",
+"hasConnection": "false"},
+{
+"name": "Волжская",
+"hasConnection": "false"},
+{
+"name": "Печатники",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Кожуховская",
+"hasConnection": "false"},
+{
+"name": "Дубровка",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Крестьянская застава",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Римская",
+"line": "8",
+"hasConnection": "true"},
+{
+"name": "Чкаловская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Сретенский бульвар",
+"line": "6",
+"hasConnection": "true"},
+{
+"name": "Трубная",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Достоевская",
+"hasConnection": "false"},
+{
+"name": "Марьина роща",
+"hasConnection": "false"},
+{
+"name": "Бутырская",
+"hasConnection": "false"},
+{
+"name": "Фонвизинская",
+"hasConnection": "false"},
+{
+"name": "Петровско-Разумовская",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Окружная",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Верхние Лихоборы",
+"hasConnection": "false"},
+{
+"name": "Селигерская",
+"hasConnection": "false"},
+{
+"name": "Савёловская",
+"line": "9",
+"hasConnection": "true"},
+{
+"name": "Петровский парк",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "ЦСКА",
+"hasConnection": "false"},
+{
+"name": "Хорошёвская",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Шелепиха",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Деловой центр",
+"line": "8",
+"hasConnection": "true"},
+{
+"name": "Каховская",
+"hasConnection": "false"},
+{
+"name": "Варшавская",
+"hasConnection": "false"},
+{
+"name": "Каширская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Битцевский парк",
+"line": "6",
+"hasConnection": "false"},
+{
+"name": "Лесопарковая",
+"hasConnection": "false"},
+{
+"name": "Улица Старокачаловская",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Улица Скобелевская",
+"hasConnection": "false"},
+{
+"name": "Бульвар адмирала Ушакова",
+"hasConnection": "false"},
+{
+"name": "Улица Горчакова",
+"hasConnection": "false"},
+{
+"name": "Бунинская Аллея",
+"hasConnection": "false"},
+{
+"name": "Окружная",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Владыкино",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Ботанический Сад",
+"line": "6",
+"hasConnection": "false"},
+{
+"name": "Ростокино",
+"hasConnection": "false"},
+{
+"name": "Белокаменная",
+"hasConnection": "false"},
+{
+"name": "Бульвар Рокоссовского",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Локомотив",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Измайлово",
+"line": "3",
+"hasConnection": "false"},
+{
+"name": "Соколиная Гора",
+"hasConnection": "false"},
+{
+"name": "Шоссе Энтузиастов",
+"line": "8",
+"hasConnection": "false"},
+{
+"name": "Андроновка",
+"hasConnection": "false"},
+{
+"name": "Нижегородская",
+"line": "15",
+"hasConnection": "false"},
+{
+"name": "Новохохловская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Угрешская",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Дубровка",
+"line": "10",
+"hasConnection": "false"},
+{
+"name": "Автозаводская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "ЗИЛ",
+"hasConnection": "false"},
+{
+"name": "Верхние Котлы",
+"hasConnection": "false"},
+{
+"name": "Крымская",
+"hasConnection": "false"},
+{
+"name": "Площадь Гагарина",
+"line": "6",
+"hasConnection": "false"},
+{
+"name": "Лужники",
+"line": "1",
+"hasConnection": "false"},
+{
+"name": "Кутузовская",
+"line": "4",
+"hasConnection": "false"},
+{
+"name": "Деловой центр",
+"line": "4",
+"hasConnection": "true"},
+{
+"name": "Шелепиха",
+"line": "11",
+"hasConnection": "true"},
+{
+"name": "Хорошёво",
+"line": "11",
+"hasConnection": "true"},
+{
+"name": "Зорге",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Панфиловская",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Стрешнево",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Балтийская",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Коптево",
+"hasConnection": "false"},
+{
+"name": "Лихоборы",
+"hasConnection": "false"},
+{
+"name": "Электрозаводская",
+"line": "3",
+"hasConnection": "false"},
+{
+"name": "Лефортово",
+"hasConnection": "false"},
+{
+"name": "Авиамоторная",
+"line": "8",
+"hasConnection": "false"},
+{
+"name": "Нижегородская",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Стахановская",
+"hasConnection": "false"},
+{
+"name": "Окская",
+"hasConnection": "false"},
+{
+"name": "Юго-Восточная",
+"hasConnection": "false"},
+{
+"name": "Косино",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Улица Дмитриевского",
+"hasConnection": "false"},
+{
+"name": "Лухмановская",
+"hasConnection": "false"},
+{
+"name": "Некрасовка",
+"hasConnection": "false"},
+{
+"name": "Одинцово",
+"hasConnection": "false"},
+{
+"name": "Баковка",
+"hasConnection": "false"},
+{
+"name": "Сколково",
+"hasConnection": "false"},
+{
+"name": "Немчиновка",
+"hasConnection": "false"},
+{
+"name": "Сетунь",
+"hasConnection": "false"},
+{
+"name": "Рабочий Посёлок",
+"hasConnection": "false"},
+{
+"name": "Кунцево",
+"line": "4",
+"hasConnection": "true"},
+{
+"name": "Славянский бульвар",
+"line": "3",
+"hasConnection": "false"},
+{
+"name": "Фили",
+"line": "4",
+"hasConnection": "false"},
+{
+"name": "Тестовская",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Беговая",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Белорусская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Савёловская",
+"line": "11",
+"hasConnection": "true"},
+{
+"name": "Тимирязевская",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Окружная",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Дегунино",
+"hasConnection": "false"},
+{
+"name": "Бескудниково",
+"hasConnection": "false"},
+{
+"name": "Лианозово",
+"hasConnection": "false"},
+{
+"name": "Марк",
+"hasConnection": "false"},
+{
+"name": "Новодачная",
+"hasConnection": "false"},
+{
+"name": "Долгопрудная",
+"hasConnection": "false"},
+{
+"name": "Водники",
+"hasConnection": "false"},
+{
+"name": "Хлебниково",
+"hasConnection": "false"},
+{
+"name": "Шереметьевская",
+"hasConnection": "false"},
+{
+"name": "Лобня",
+"hasConnection": "false"},
+{
+"name": "Нахабино",
+"hasConnection": "false"},
+{
+"name": "Аникеевка",
+"hasConnection": "false"},
+{
+"name": "Опалиха",
+"hasConnection": "false"},
+{
+"name": "Красногорская",
+"hasConnection": "false"},
+{
+"name": "Павшино",
+"hasConnection": "false"},
+{
+"name": "Пенягино",
+"hasConnection": "false"},
+{
+"name": "Волоколамская",
+"line": "3",
+"hasConnection": "false"},
+{
+"name": "Трикотажная",
+"hasConnection": "false"},
+{
+"name": "Тушино",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Щукинская",
+"hasConnection": "false"},
+{
+"name": "Стрешнево",
+"line": "14",
+"hasConnection": "true"},
+{
+"name": "Красный Балтиец",
+"hasConnection": "false"},
+{
+"name": "Гражданская",
+"hasConnection": "false"},
+{
+"name": "Дмитровская",
+"line": "9",
+"hasConnection": "false"},
+{
+"name": "Рижская",
+"hasConnection": "false"},
+{
+"name": "Каланчёвская",
+"line": "5",
+"hasConnection": "true"},
+{
+"name": "Курская",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Москва Товарная",
+"line": "10",
+"hasConnection": "true"},
+{
+"name": "Калитники",
+"hasConnection": "false"},
+{
+"name": "Новохохловская",
+"line": "14",
+"hasConnection": "false"},
+{
+"name": "Текстильщики",
+"line": "7",
+"hasConnection": "false"},
+{
+"name": "Кубанская",
+"line": "10",
+"hasConnection": "false"},
+{
+"name": "Депо",
+"hasConnection": "false"},
+{
+"name": "Перерва",
+"hasConnection": "false"},
+{
+"name": "Курьяново",
+"hasConnection": "false"},
+{
+"name": "Москворечье",
+"hasConnection": "false"},
+{
+"name": "Царицыно",
+"line": "2",
+"hasConnection": "false"},
+{
+"name": "Покровская",
+"hasConnection": "false"},
+{
+"name": "Красный Строитель",
+"hasConnection": "false"},
+{
+"name": "Битца",
+"hasConnection": "false"},
+{
+"name": "Бутово",
+"hasConnection": "false"},
+{
+"name": "Щербинка",
+"hasConnection": "false"},
+{
+"name": "Остафьево",
+"hasConnection": "false"},
+{
+"name": "Силикатная",
+"hasConnection": "false"},
+{
+"name": "Подольск",
+"hasConnection": "false"}
+]
+}
